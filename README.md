@@ -1,2 +1,2 @@
 # hello-world
-My first Hello World
+That's my first hello world. I've never code here, in GitHub. 
